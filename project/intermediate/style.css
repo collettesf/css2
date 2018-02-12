@@ -49,7 +49,7 @@ html {
   display: inline-block;
   width: 41rem;
   height: 100vh;
-  background: #ff00ff;
+  background: #ff66ff;
   padding: 20px;
 }
 
@@ -57,15 +57,12 @@ html {
   display: inline-block;
   width: 41rem;
   height: 100vh;
-  background: #e600e6;
+  background: #ff33ff;
   padding: 20px;
 }
 
-
-
-
 header, footer {
-  background:white ;
+  background:#ffb3ff ;
 }
   background:#ABB2B9 ;
 }
