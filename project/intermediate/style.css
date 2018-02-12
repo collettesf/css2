@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Encode+Sans');
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
 
 body{
-   font-family: 'Encode Sans', sans-serif;
+  font-family: 'Aclonica', sans-serif;
 }
 
 body {
-background:plum;
+background:#ffe6ff;
 }
 
 h1 {
-  color: #455A64;
+  color: #330033;
 }
 
 h2 {
@@ -17,13 +17,55 @@ h2 {
 }
 
 h3 {
-  color: #D81B60;
+  color: #ff00ff;
+}
+
+h4 {
+  color: #1a001a;
 }
 
 p {
   font-size: 2rem;
 }
 
+
+
+
+ body {
+  font-size: 2rem;
+  font-family: 'Aclonica', sans-serif;
+  color: white;
+}
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.box {
+  display: inline-block;
+  width: 41rem;
+  height: 100vh;
+  background: #ff00ff;
+  padding: 20px;
+}
+
+.special {
+  display: inline-block;
+  width: 41rem;
+  height: 100vh;
+  background: #e600e6;
+  padding: 20px;
+}
+
+
+
+
 header, footer {
+  background:white ;
+}
   background:#ABB2B9 ;
 }
