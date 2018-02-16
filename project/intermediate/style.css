@@ -1,27 +1,28 @@
-@import url('https://fonts.googleapis.com/css?family=Aclonica');
+@import url('https://fonts.googleapis.com/css?family=Cabin');
 
 body{
-  font-family: 'Aclonica', sans-serif;
+  font-family: 'Cabin', sans-serif;
 }
 
 body {
-background:#ffe6ff;
+background-image: linear-gradient(rgba(255, 255, 255, 0.65), transparent), url(http://i65.tinypic.com/727f4w.jpg);
+background-attachment: fixed;
 }
 
 h1 {
-  color: #330033;
+  color: #4d004d;
 }
 
 h2 {
-  color: purple;
+  color: #cc00cc;
 }
 
 h3 {
-  color: #ff00ff;
+  color: #c2c2a3;
 }
 
 h4 {
-  color: #1a001a;
+  color: #4d004d;
 }
 
 p {
@@ -34,7 +35,7 @@ p {
  body {
   font-size: 2rem;
   font-family: 'Aclonica', sans-serif;
-  color: white;
+  color: #c2c2a3;
 }
 
 
@@ -49,7 +50,7 @@ html {
   display: inline-block;
   width: 41rem;
   height: 100vh;
-  background: #ff66ff;
+  background: #3d3d29;
   padding: 20px;
 }
 
@@ -57,12 +58,12 @@ html {
   display: inline-block;
   width: 41rem;
   height: 100vh;
-  background: #ff33ff;
+  background: #4d004d;
   padding: 20px;
 }
 
 header, footer {
-  background:#ffb3ff ;
+  background:#4d004d ;
 }
   background:#ABB2B9 ;
 }
