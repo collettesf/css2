@@ -14,10 +14,10 @@ background-attachment: fixed;
 }
 
 .circle {
-  width: 300px;
-  height: 300px;
+  width: 500px;
+  height: 500px;
   border: 10px solid #c2c2a3;
-  border-radius: 50%;
+  border-radius: 70%;
   background-image: url('http://i64.tinypic.com/8ygiae.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -83,5 +83,6 @@ html {
 header, footer {
   background:#4d004d ;
 }
+
   background:#ABB2B9 ;
 }
