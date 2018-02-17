@@ -14,10 +14,10 @@ background-attachment: fixed;
 }
 
 .circle {
-  width: 500px;
-  height: 500px;
-  border: 10px solid #c2c2a3;
-  border-radius: 70%;
+  width: 40rem;
+  height: 40rem;
+  border: groove 1rem #c2c2a3;
+  border-radius: 2rem;
   background-image: url('http://i64.tinypic.com/8ygiae.jpg');
   background-size: cover;
   background-repeat: no-repeat;
