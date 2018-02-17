@@ -49,17 +49,20 @@ html {
 .box {
   display: inline-block;
   width: 41rem;
-  height: 100vh;
+  height: 69vh;
   background: #3d3d29;
   padding: 20px;
+  box-shadow: 10px 5px 5px #c2c2a3;
+
 }
 
 .special {
   display: inline-block;
   width: 41rem;
-  height: 100vh;
+  height: 69vh;
   background: #4d004d;
   padding: 20px;
+  box-shadow: 10px 5px 5px #cc00cc;
 }
 
 header, footer {
