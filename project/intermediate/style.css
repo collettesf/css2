@@ -14,8 +14,8 @@ background-attachment: fixed;
 }
 
 .circle {
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   border: 10px solid #c2c2a3;
   border-radius: 50%;
   background-image: url('http://i64.tinypic.com/8ygiae.jpg');
